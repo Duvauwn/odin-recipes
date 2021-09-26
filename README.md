@@ -12,3 +12,4 @@ By doing this project I will have demonstrated my abilities to:
     ~Work with using images, both absolute and relative
 
 <after>
+Upon reflecting on this project I have gained the knowledge of the general workflow of developing a website. I have become more comfortable using Git and GitHub. I have a good backbone in html boilerplate and better understanding of relative paths when linking to other pages and using images. I also understand the structure of a webpage a little better.
